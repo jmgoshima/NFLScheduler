@@ -56,5 +56,8 @@ cursor.execute(f"""
 );
 """)
 
+
+
+
 # Close the connection
 conn.close()
